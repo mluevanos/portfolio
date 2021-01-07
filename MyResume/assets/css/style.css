@@ -325,13 +325,13 @@ h1, h2, h3, h4, h5, h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 25px 0;
   overflow: hidden;
 }
 
 .section-title {
   text-align: center;
-  padding-bottom: 30px;
+  padding-bottom: 20px;
 }
 
 .section-title h2 {
@@ -478,6 +478,15 @@ section {
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
+
+em {
+  font-size: 15px;
+}
+
+.resume .resume-item li {
+  font-size: 15px;
+}
+
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
@@ -494,8 +503,8 @@ section {
 }
 
 .resume .resume-item h4 {
-  line-height: 18px;
-  font-size: 18px;
+  line-height: 25px;
+  font-size: 25px;
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
@@ -504,7 +513,7 @@ section {
 }
 
 .resume .resume-item h5 {
-  font-size: 16px;
+  font-size: 20px;
   background: #f7f8f9;
   padding: 5px 15px;
   display: inline-block;
