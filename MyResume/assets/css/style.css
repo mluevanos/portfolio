@@ -945,7 +945,7 @@ em {
 .contact .info p {
   padding: 0 0 0 60px;
   margin-bottom: 0;
-  font-size: 14px;
+  font-size: 20px;
   color: #728394;
 }
 
@@ -1183,3 +1183,9 @@ em {
 #footer .credits {
   font-size: 13px;
 }
+
+video {
+
+  width: 100%    !important;
+  height: auto   !important;
+} 
