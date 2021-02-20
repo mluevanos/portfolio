@@ -1141,6 +1141,14 @@ video {
   font-size: 20px;
 } 
 
+.project-li li {
+  font-size: 18px;
+}
+
+.section-title p {
+  font-size: 18px;
+}
+
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
@@ -1173,7 +1181,7 @@ video {
 }
 
 #footer .social-links a {
-  font-size: 18px;
+  font-size: 20px;
   display: inline-block;
   background: #0563bb;
   color: #fff;
